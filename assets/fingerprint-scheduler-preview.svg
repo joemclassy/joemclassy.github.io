@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" rx="30" fill="#E8F4EA"/>
+  <circle cx="1070" cy="92" r="230" fill="#D7FFE0" fill-opacity=".68"/>
+  <rect x="42" y="38" width="1116" height="684" rx="26" fill="#fff" stroke="#D5E1D7" stroke-width="2"/>
+  <rect x="42" y="38" width="210" height="684" rx="26" fill="#FBFDFC"/>
+  <path d="M252 38v684" stroke="#E3EBE4" stroke-width="2"/>
+  <rect x="62" y="60" width="40" height="40" rx="13" fill="#D7FFE0"/>
+  <path d="M82 68 92 73v6c0 6-4 10-10 12-6-2-10-6-10-12v-6l10-5Z" stroke="#287B47" stroke-width="2"/>
+  <path d="M78 79c0-2 2-4 4-4s4 2 4 4-2 4-4 4-4-2-4-4Z" stroke="#287B47" stroke-width="1.5"/>
+  <rect x="112" y="65" width="98" height="12" rx="6" fill="#1E3024"/>
+  <rect x="112" y="84" width="76" height="8" rx="4" fill="#A0ADA2"/>
+  <rect x="58" y="133" width="177" height="43" rx="11" fill="#E8F7EB"/>
+  <g fill="#2C7847"><rect x="74" y="148" width="15" height="15" rx="3"/><rect x="102" y="149" width="93" height="11" rx="5"/></g>
+  <g fill="#C8D3CA"><rect x="75" y="198" width="15" height="15" rx="7"/><rect x="102" y="200" width="83" height="10" rx="5"/><rect x="75" y="245" width="15" height="15" rx="7"/><rect x="102" y="247" width="92" height="10" rx="5"/><rect x="75" y="292" width="15" height="15" rx="7"/><rect x="102" y="294" width="76" height="10" rx="5"/><rect x="75" y="339" width="15" height="15" rx="7"/><rect x="102" y="341" width="88" height="10" rx="5"/></g>
+  <rect x="282" y="69" width="128" height="11" rx="5" fill="#438454"/>
+  <rect x="282" y="91" width="398" height="34" rx="9" fill="#16271B"/>
+  <rect x="282" y="138" width="420" height="13" rx="6" fill="#9BA89D"/>
+  <rect x="1011" y="63" width="111" height="42" rx="21" fill="#1F6C3D"/>
+  <rect x="1032" y="79" width="68" height="10" rx="5" fill="#fff"/>
+  <g>
+    <rect x="282" y="178" width="188" height="95" rx="15" fill="#fff" stroke="#E1EAE2" stroke-width="2"/><rect x="300" y="196" width="33" height="33" rx="11" fill="#E8F7EB"/><rect x="344" y="197" width="70" height="9" rx="4" fill="#849287"/><rect x="344" y="216" width="92" height="18" rx="5" fill="#1D2D21"/><rect x="300" y="246" width="68" height="8" rx="4" fill="#6A9C75"/>
+    <rect x="485" y="178" width="188" height="95" rx="15" fill="#fff" stroke="#E1EAE2" stroke-width="2"/><rect x="503" y="196" width="33" height="33" rx="11" fill="#E8F7EB"/><rect x="547" y="197" width="70" height="9" rx="4" fill="#849287"/><rect x="547" y="216" width="57" height="18" rx="5" fill="#1D2D21"/><rect x="503" y="246" width="90" height="8" rx="4" fill="#6A9C75"/>
+    <rect x="688" y="178" width="188" height="95" rx="15" fill="#fff" stroke="#E1EAE2" stroke-width="2"/><rect x="706" y="196" width="33" height="33" rx="11" fill="#E8F7EB"/><rect x="750" y="197" width="70" height="9" rx="4" fill="#849287"/><rect x="750" y="216" width="76" height="18" rx="5" fill="#1D2D21"/><rect x="706" y="246" width="58" height="8" rx="4" fill="#6A9C75"/>
+    <rect x="891" y="178" width="231" height="95" rx="15" fill="#F5FBF6" stroke="#CFE3D2" stroke-width="2"/><rect x="910" y="198" width="14" height="14" rx="7" fill="#41A361"/><rect x="935" y="200" width="100" height="10" rx="5" fill="#68766A"/><rect x="910" y="227" width="188" height="25" rx="8" fill="#E2F4E6"/><rect x="922" y="236" width="92" height="8" rx="4" fill="#3B7E4D"/>
+  </g>
+  <rect x="282" y="293" width="840" height="390" rx="17" fill="#fff" stroke="#E1EAE2" stroke-width="2"/>
+  <rect x="305" y="316" width="167" height="14" rx="7" fill="#203126"/>
+  <rect x="305" y="340" width="226" height="10" rx="5" fill="#AFBAB0"/>
+  <rect x="965" y="313" width="132" height="40" rx="10" fill="#F2F6F2"/>
+  <rect x="981" y="329" width="96" height="9" rx="4" fill="#647268"/>
+  <rect x="305" y="375" width="794" height="41" rx="8" fill="#F5F8F5"/>
+  <g fill="#87948A"><rect x="322" y="391" width="79" height="9" rx="4"/><rect x="471" y="391" width="87" height="9" rx="4"/><rect x="629" y="391" width="76" height="9" rx="4"/><rect x="780" y="391" width="68" height="9" rx="4"/><rect x="930" y="391" width="90" height="9" rx="4"/></g>
+  <g>
+    <path d="M305 463h794M305 510h794M305 557h794M305 604h794M305 651h794" stroke="#EAF0EA" stroke-width="2"/>
+    <g fill="#647268"><rect x="322" y="435" width="94" height="11" rx="5"/><rect x="471" y="435" width="76" height="11" rx="5"/><rect x="629" y="435" width="105" height="11" rx="5"/><rect x="780" y="435" width="78" height="11" rx="5"/><rect x="930" y="435" width="67" height="11" rx="5"/></g>
+    <g fill="#647268"><rect x="322" y="482" width="112" height="11" rx="5"/><rect x="471" y="482" width="91" height="11" rx="5"/><rect x="629" y="482" width="83" height="11" rx="5"/><rect x="780" y="482" width="86" height="11" rx="5"/><rect x="930" y="482" width="90" height="11" rx="5"/></g>
+    <g fill="#647268"><rect x="322" y="529" width="101" height="11" rx="5"/><rect x="471" y="529" width="70" height="11" rx="5"/><rect x="629" y="529" width="117" height="11" rx="5"/><rect x="780" y="529" width="72" height="11" rx="5"/><rect x="930" y="529" width="81" height="11" rx="5"/></g>
+    <g fill="#647268"><rect x="322" y="576" width="90" height="11" rx="5"/><rect x="471" y="576" width="111" height="11" rx="5"/><rect x="629" y="576" width="87" height="11" rx="5"/><rect x="780" y="576" width="108" height="11" rx="5"/><rect x="930" y="576" width="71" height="11" rx="5"/></g>
+    <g fill="#647268"><rect x="322" y="623" width="104" height="11" rx="5"/><rect x="471" y="623" width="80" height="11" rx="5"/><rect x="629" y="623" width="98" height="11" rx="5"/><rect x="780" y="623" width="73" height="11" rx="5"/><rect x="930" y="623" width="94" height="11" rx="5"/></g>
+  </g>
+  <rect x="1017" y="431" width="64" height="23" rx="11" fill="#E5F5E8"/><rect x="1029" y="439" width="40" height="7" rx="3" fill="#398253"/>
+  <rect x="1017" y="478" width="64" height="23" rx="11" fill="#FFF3D9"/><rect x="1029" y="486" width="40" height="7" rx="3" fill="#986B20"/>
+  <rect x="1017" y="525" width="64" height="23" rx="11" fill="#E5F5E8"/><rect x="1029" y="533" width="40" height="7" rx="3" fill="#398253"/>
+  <rect x="24" y="673" width="360" height="55" rx="13" fill="#fff" fill-opacity=".92"/>
+  <text x="44" y="697" fill="#58705D" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">JOMARIE ALEGRE · THESIS PROJECT</text>
+  <text x="44" y="718" fill="#17291D" font-family="Arial,sans-serif" font-size="18" font-weight="700">Fingerprint-Based Teacher Attendance with Classroom Lock and Relays</text>
+</svg>
